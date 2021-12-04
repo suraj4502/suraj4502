@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SURAJ,
 - 👀 I’m interested in DATA SCIENCE,
-- 🌱 I’m currently learning PYTHON AND TABLEU,
-- 💞️ I’m looking to collaborate on PYTHON PROJECTS AND DATA SCIENE,
+- 🌱 I’m currently learning PYTHON,ML.
+-    I’m looking to collaborate on PYTHON PROJECTS AND DATA SCIENE,
 - 📫  my email id is: sy82086@gmail.com 
 
 <!---
