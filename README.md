@@ -1,5 +1,5 @@
-- 👋 Hi, I’m SURAJ,
-- Data Science Student,
+- 👋 Hi, I’m SURAJ.
+- A Data Science Student.
 - I’m currently learning PYTHON,ML.
 - I’m looking to collaborate on PYTHON PROJECTS AND DATA SCIENE,
 - 📫 my email id : sy82086@gmail.com 
