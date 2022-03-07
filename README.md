@@ -10,7 +10,7 @@
 
 
 </a>
-<a href="https://www.linkedin.com/in/surajkumar-yadav-6ab2011a4/"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt-"suraj's LinkedIN" width="22px"/></a>
+<a href="https://www.linkedin.com/in/surajkumar-yadav-6ab2011a4/"><img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt-"suraj's LinkedIN" width="22px" height="30" width="40"/></a>
 
 
 
