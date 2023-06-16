@@ -10,8 +10,8 @@ I'm passionate about leveraging data to gain insights and solve complex problems
 
 
 
-<a href="https://www.linkedin.com/in/suraj502/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/suraj452"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@sy820860"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/> &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://instagram.com/suraj452" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj" height="30"  width="40" />
-&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://www.datascienceportfol.io/suraj4502" ><img src="https://static.vecteezy.com/system/resources/previews/000/350/515/original/portfolio-vector-icon.jpg"  height="30"  width="35" />
+<a href="https://www.linkedin.com/in/suraj502/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/suraj452"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;  <a href="https://www.datascienceportfol.io/suraj4502" ><img src="https://cdn2.iconfinder.com/data/icons/user-interface-web/550/user-interface-web_53-512.png"  height="30"  width="30" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@sy820860"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" height="30"  width="30"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/suraj452" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj" height="30"  width="40" />
+
 
 
 
