@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 
-## Data Scientist | Machine Learning Engineer
+## Data Scientist
 
 Welcome to my GitHub profile! 
 
-I'm passionate about leveraging data to gain insights and solve complex problems. I have experience in machine learning, data analysis, and data visualization. Feel free to explore my repositories and projects below.
+I'm a Data Scientist with strong expertise in **Data Engineering**, passionate about solving complex problems, and continually learning new technologies. I have experience in machine learning, data analysis, and data visualization. Feel free to explore my repositories and projects below.
 
 <h3 align="left">Connect with me:</h3>
 
